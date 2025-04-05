@@ -1,1 +1,3 @@
-# Hot-trading-_signals
+# Hot Trading Signals
+
+This is a simple project for trading signals.
